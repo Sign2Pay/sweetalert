@@ -42,7 +42,7 @@
     padding: 0;
     line-height: 25px;
     display: block; }
-  .sweet-alert p {
+  .sweet-alert p, .sweet-alert section{
     color: #797979;
     font-size: 16px;
     text-align: center;
